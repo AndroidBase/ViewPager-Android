@@ -1,6 +1,9 @@
 # ViewPager-Android
+### 自定义的Viewpager ###
 
 Based on the Android support library's ViewPager class, this ViewPager supports both horizontal and vertical paging views.
+
+![imag](https://github.com/AndroidBase/ViewPager-Android/blob/master/screen_capture.gif)
 
 # Usage
 
