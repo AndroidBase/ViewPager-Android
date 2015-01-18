@@ -3,7 +3,8 @@
 
 Based on the Android support library's ViewPager class, this ViewPager supports both horizontal and vertical paging views.
 
-![imag](https://github.com/AndroidBase/ViewPager-Android/blob/master/screen_capture.gif)
+
+![image](https://github.com/AndroidBase/ViewPager-Android/blob/master/screen_capture.gif)
 
 # Usage
 
